@@ -1,6 +1,0 @@
-﻿Compilación iniciada a las 5:04 p. m....
-1>------ Operación Compilar iniciada: Proyecto: 2do_parcial, configuración: Debug x64 ------
-1>  2do_parcial.cpp
-1>  2do_parcial.vcxproj -> C:\Users\ismae\source\repos\2do_parcial\x64\Debug\2do_parcial.exe
-========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
-========== Compilar completado a las 5:04 p. m. y tardó 03.613 segundos ==========
