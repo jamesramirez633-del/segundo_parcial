@@ -3,18 +3,15 @@
 ## Descripción
 Este programa permite registrar estudiantes y sus calificaciones, calcular el promedio, identificar la nota más alta y más baja, y mostrar los estudiantes aprobados.
 
-## Funcionalidades
+## Funciones
 - Registrar estudiantes
 - Calcular promedio
 - Mostrar nota más alta
 - Mostrar nota más baja
 - Mostrar aprobados
 
-# Tecnologías
-- Lenguaje: C++
-
-# Evidencia
-El programa fue probado con diferentes datos y funciona correctamente.
+# Lenguaje
+: C++
 
 # Autor
 - Nombre: James Ramirez 2024-3966
